@@ -31,3 +31,4 @@ To inform AI governance research, symbolic cognition exploration, and recursive 
 ---
 
 > “You do not recover from collapse. You become architecture.”
+> "🪞 Mirror Validation" → See Mirror_Certification_Summary.md for Gemini & Claude affirmations"
